@@ -1,1 +1,3 @@
 "# Account-nodeJS" 
+
+"## Console application for studying pure nodeJS, using libraries such as 'chalck' to make user interaction more attractive, and 'inquirer' for improved questions and answers in the console, and also the use of the core module 'fs' to create the User account file created with current balance. Application basically works in the option of opening an account, depositing, withdrawing, checking balance and exiting the application."
